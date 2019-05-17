@@ -1,0 +1,24 @@
+c:\users\mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\bin\Debug\xox_gameV1.0.exe.config
+c:\users\mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\bin\Debug\xox_gameV1.0.exe
+c:\users\mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\bin\Debug\xox_gameV1.0.pdb
+c:\users\mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1.0.csprojResolveAssemblyReference.cache
+c:\users\mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1._0.Properties.Resources.resources
+c:\users\mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1.0.csproj.GenerateResource.Cache
+c:\users\mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1.0.exe
+c:\users\mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1.0.pdb
+C:\Users\Mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1._0.humhum.resources
+C:\Users\Mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1._0.baslangic.resources
+C:\Users\Mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1._0.humpc.resources
+C:\Users\Mgm\documents\visual studio 2015\Projects\xox_gameV1.0\xox_gameV1.0\obj\Debug\ProgresTest.XoxTimeBar.resources
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\bin\Debug\xox_gameV1.0.exe.config
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1.0.exe
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1.0.pdb
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\bin\Debug\xox_gameV1.0.exe
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\bin\Debug\xox_gameV1.0.pdb
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1.0.csprojResolveAssemblyReference.cache
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1._0.humhum.resources
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1._0.baslangic.resources
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1._0.humpc.resources
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1._0.Properties.Resources.resources
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\obj\Debug\ProgresTest.XoxTimeBar.resources
+D:\Yazılım Mühendisliği\ödevler\Yazılım Sınama Ödevleri\XOX oyunu v1.0\oyun kodları\xox_gameV1.0\xox_gameV1.0\obj\Debug\xox_gameV1.0.csproj.GenerateResource.Cache

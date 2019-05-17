@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ProgresTest\ProgresTest\bin\Debug\ProgresTest.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ProgresTest\ProgresTest\bin\Debug\ProgresTest.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ProgresTest\ProgresTest\bin\Debug\ProgresTest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ProgresTest\ProgresTest\obj\Debug\ProgresTest.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ProgresTest\ProgresTest\obj\Debug\ProgresTest.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ProgresTest\ProgresTest\obj\Debug\ProgresTest.XoxTimeBar.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ProgresTest\ProgresTest\obj\Debug\ProgresTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ProgresTest\ProgresTest\obj\Debug\ProgresTest.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ProgresTest\ProgresTest\obj\Debug\ProgresTest.pdb
